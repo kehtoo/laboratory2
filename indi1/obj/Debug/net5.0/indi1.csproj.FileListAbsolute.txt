@@ -1,0 +1,16 @@
+C:\Users\Кирилл\source\repos\indi1\indi1\bin\Debug\net5.0\indi1.exe
+C:\Users\Кирилл\source\repos\indi1\indi1\bin\Debug\net5.0\indi1.deps.json
+C:\Users\Кирилл\source\repos\indi1\indi1\bin\Debug\net5.0\indi1.runtimeconfig.json
+C:\Users\Кирилл\source\repos\indi1\indi1\bin\Debug\net5.0\indi1.runtimeconfig.dev.json
+C:\Users\Кирилл\source\repos\indi1\indi1\bin\Debug\net5.0\indi1.dll
+C:\Users\Кирилл\source\repos\indi1\indi1\bin\Debug\net5.0\ref\indi1.dll
+C:\Users\Кирилл\source\repos\indi1\indi1\bin\Debug\net5.0\indi1.pdb
+C:\Users\Кирилл\source\repos\indi1\indi1\obj\Debug\net5.0\indi1.csproj.AssemblyReference.cache
+C:\Users\Кирилл\source\repos\indi1\indi1\obj\Debug\net5.0\indi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\source\repos\indi1\indi1\obj\Debug\net5.0\indi1.AssemblyInfoInputs.cache
+C:\Users\Кирилл\source\repos\indi1\indi1\obj\Debug\net5.0\indi1.AssemblyInfo.cs
+C:\Users\Кирилл\source\repos\indi1\indi1\obj\Debug\net5.0\indi1.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\repos\indi1\indi1\obj\Debug\net5.0\indi1.dll
+C:\Users\Кирилл\source\repos\indi1\indi1\obj\Debug\net5.0\ref\indi1.dll
+C:\Users\Кирилл\source\repos\indi1\indi1\obj\Debug\net5.0\indi1.pdb
+C:\Users\Кирилл\source\repos\indi1\indi1\obj\Debug\net5.0\indi1.genruntimeconfig.cache
